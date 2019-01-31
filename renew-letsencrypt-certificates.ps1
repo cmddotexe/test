@@ -2,6 +2,7 @@
 #
 # version 0.1 - graham.newland@gmsl.co.uk
 #
+# instructions:
 
 $OPENSSL = "c:\scripts\openssl.exe"
 $RDPFX = "c:\scripts\tmp.pfx"
